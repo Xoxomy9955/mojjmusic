@@ -20,6 +20,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 @Client.on_message(command("ytp") & other_filters)
 @errors
+@authorized_users_only
 async def play(_, message: Message):
 
     lel = await message.reply("🔎 **Finding** the song...")
