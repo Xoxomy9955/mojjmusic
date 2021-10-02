@@ -19,7 +19,7 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 WANNA MEET OWNER 🛠", url="https://t.me/samsainipb")
+                        "🛠 WANNA MEET OWNER 🛠", url="https://t.me/panditji097")
                   ],[
                     InlineKeyboardButton(
                         "💬 CHANNEL", url="https://t.me/panditji021"
